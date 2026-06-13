@@ -29,7 +29,7 @@ I'm passionate about database administration, data analytics, business intellige
 
 ## Featured Projects
 
-### 🚀 AI Client Overview Platform
+### AI Client Overview Platform
 
 AI-powered client intelligence platform built using SQL Server, FastAPI, React, and OpenAI.
 
@@ -46,7 +46,7 @@ AI-powered client intelligence platform built using SQL Server, FastAPI, React, 
 
 ---
 
-### ⚡ Credit Card Fraud Database & Performance Optimization
+###  Credit Card Fraud Database & Performance Optimization
 
 Large-scale PostgreSQL database project focused on fraud analytics, database design, query optimization, and performance tuning across approximately 1.85 million transaction records.
 
@@ -65,7 +65,7 @@ Large-scale PostgreSQL database project focused on fraud analytics, database des
 
 ---
 
-### 📊 Climate Analytics & Big Data Processing
+###  Climate Analytics & Big Data Processing
 
 End-to-end analytics project using Python, Pandas, NumPy, and Apache Spark.
 
