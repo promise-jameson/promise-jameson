@@ -46,6 +46,25 @@ AI-powered client intelligence platform built using SQL Server, FastAPI, React, 
 
 ---
 
+### ⚡ Credit Card Fraud Database & Performance Optimization
+
+Large-scale PostgreSQL database project focused on fraud analytics, database design, query optimization, and performance tuning across approximately 1.85 million transaction records.
+
+**Highlights**
+
+* Third Normal Form (3NF) database design
+* PostgreSQL database implementation
+* Fraud detection and merchant risk analysis
+* Advanced SQL querying (CTEs, Recursive CTEs, Window Functions)
+* Materialized Views and analytical reporting
+* Query optimization using EXPLAIN ANALYZE
+* Single-column and composite index performance tuning
+* Business intelligence and fraud trend analysis
+
+🔗 https://github.com/promise-jameson/credit-card-fraud-database-optimization
+
+---
+
 ### 📊 Climate Analytics & Big Data Processing
 
 End-to-end analytics project using Python, Pandas, NumPy, and Apache Spark.
